@@ -1,8 +1,5 @@
 # Snakefile
-# Workflow: Snakemake-GATKv4.4-Snpeff-Workflow
-# Version: 1.0
-# Author: Dr. Ravi Prabhakar More (Email: ravipmore7@gmail.com)
-# Date: 31-08-2023
+# Workflow: Snakemake-GATK-Snpeff-Workflow
 # USAGE: snakemake -c config.yaml --cores 16 --dry-run
 configfile: "config.yaml"
 
